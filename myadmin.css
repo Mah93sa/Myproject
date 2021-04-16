@@ -21,3 +21,11 @@
   margin-left: 50px;
   margin-top: 50px;
 }
+#main .bluesquare{
+  height: 100px;
+  width: 100px;
+  background-color:rgb(26, 104, 150);
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+}
