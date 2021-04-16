@@ -13,3 +13,11 @@
   margin-left: 350px;
   margin-top: 180px;
 }
+#main .yellowsquare{
+  height: 200px;
+  width: 200px;
+  background-color:#F7D13E;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+}
