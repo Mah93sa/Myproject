@@ -29,3 +29,11 @@
   margin-left: 50px;
   margin-top: 50px;
 }
+#main .blacksquare{
+  height: 50px;
+  width: 50px;
+  background-color:rgb(15, 32, 41);
+  display: inline-block;
+  margin-left: 25px;
+  margin-top: 25px;
+}
