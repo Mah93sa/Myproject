@@ -1,0 +1,57 @@
+#main{
+  margin-left: 250px;
+  width: 1000px;
+  height: 700px;
+  border: 1px solid #000000;
+  float: left;
+  padding: 20px;
+  margin-top: 30px;
+
+}
+#main .redSquare{
+  height: 300px;
+  width: 300px;
+  background-color: #F25544;
+  display: inline-block;
+  margin-left: 350px;
+  margin-top: 180px;
+}
+#main .bluesquare{
+  height: 400px;
+  width: 400px;
+  color: rgb(172, 121, 150);
+  background-color:rgb(26, 104, 150);
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 20px;
+}
+#main .redSquare{
+  height: 300px;
+  width: 300px;
+  background-color: #F25544;
+  display: inline-block;
+  margin-left: 350px;
+  margin-top: 180px;
+}
+<<<<<<< HEAD
+#main .bluesquare{
+  height: 400px;
+  width: 400px;
+  color: rgb(172, 121, 150);
+  background-color:rgb(26, 104, 150);
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 20px;
+}
+=======
+>>>>>>> branch
+
+circle{
+  height: 40px;
+  width: 40px;
+  background-color:rgb(26, 104, 150);
+  display: inline-block;
+  radius:100%;
+}
